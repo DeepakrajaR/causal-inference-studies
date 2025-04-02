@@ -86,8 +86,4 @@ This project is released under the MIT License.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📧 Contact
-
-[Your Name] - [Your Email]
-
 **Note**: This project is for educational and research purposes. Always consult domain experts when applying causal inference techniques in real-world scenarios.
